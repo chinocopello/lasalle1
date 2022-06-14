@@ -1,0 +1,107 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+ 
+* { padding: 0;
+    border: 0;
+    margin: 0;}
+
+body {font-family:'Courier New', Courier, monospace;
+ background-color: rgb(86, 86, 231);
+    font-size: color rgb(255, 255, 255);
+}
+
+
+
+header { text-align: center;
+         margin-right: 45px;
+        margin-bottom: 4%;}
+
+ ul {display: flex;
+    flex-direction: row;
+   text-decoration: none;
+   list-style-type: none;
+
+ }
+.otraspaginas { display: flex;
+    flex-direction: row;
+   text-decoration: none;
+   list-style-type: none;
+    color: aliceblue;}
+
+#escudo { width: 30%;
+        height: 30%;
+      }
+
+.titulofinal { margin-right:5%;
+     text-align: right;
+    }
+
+
+
+
+section { display: flex;
+    flex-direction: row;
+    margin-left: 30%;
+    color: aliceblue;
+    font-size: bold;
+    
+}
+
+h1 {
+    margin-top: 10%;
+    font-size: 40px;
+}
+
+#presentacion { display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+         padding: 0 3% 6%;
+    }
+
+ ul { text-align: center;
+     display: flex; 
+    color:aliceblue;
+     font-size: 30px;
+    font-weight: bold;
+    margin-left: 24%;}
+
+li { margin: 2%;}
+
+.productos { display:flex;
+
+    text-align: center;
+     margin-bottom: 20%;
+    margin-left: 22%;}
+
+div { display: flex;
+ flex-direction: row;
+}
+
+ .card { margin-left: 30px;}
+
+.card-text { font-size: 30px;
+text-align: center
+;color: rgb(25, 113, 190);
+margin-left: 20%;
+margin-bottom: 40%;
+font-weight: bold;}
+
+
+ footer { color: aliceblue;
+ text-align: center;
+ margin-top: 20%;
+font-style: italic;
+text-decoration: none;}
+ 
+.sinsubrayar { color: blue; text-decoration: none;}
+
+.tituloaccesorios { color:aliceblue ;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.img-fluid { height: auto;width: 30%;}
+
