@@ -103,5 +103,23 @@ text-decoration: none;}
     font-weight: bold;
 }
 
-.img-fluid { height: auto;width: 30%;}
+.img-fluid { 
+    height: 50%;width: 40%;
+margin-left: 30%;
+margin-top: 10%;
+margin-bottom: 1%;}
 
+.cursiva { color: aliceblue; 
+    font-style: italic;}
+
+.finalnosotros { color: aliceblue;         font-weight: bold;
+    margin-right: 40px;
+    text-align: right;
+ text-decoration: none;}
+
+ .marca { text-align: center;}
+
+
+ .titulonosotros { font-size: 50px;
+color: aliceblue;
+font-family:'Courier New', Courier, monospace;}
